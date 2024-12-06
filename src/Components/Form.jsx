@@ -86,7 +86,7 @@ const FeedbackForm = () => {
   };
 
   const designations = [
-    "Frontend Developer",
+    "Frontend Developer" ,
     "Backend Developer",
     "FullStack Developer",
     "WordPress Developer",
