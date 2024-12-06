@@ -93,7 +93,7 @@ const FeedbackForm = () => {
     "Business Analyst",
     "Project Manager",
     "Operational Manager",
-      "HR" ,
+      "HRR" ,
     "Internship",
     "SEO Expert",
   ];
